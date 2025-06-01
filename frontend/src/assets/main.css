@@ -1,4 +1,7 @@
-@import './base.css';
+// src/main.js
+import { createApp } from 'vue';
+import './App.vue';
+import './assets/index.css';
 
 #app {
   max-width: 1280px;
